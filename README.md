@@ -1,4 +1,3 @@
-Gaming 
 
 Welcome to Cookiezi.co.uk
 =========================
