@@ -13,3 +13,5 @@ Links to current subdomains can be found below:
 ### [GBA Emulator](https://matty.icu)
 
 ### [osu web](https://osu.cookiezi.co.uk)
+
+### [Discord Webhook Sender](https://webhook.cookiezi.co.uk)
