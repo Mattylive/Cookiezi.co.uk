@@ -10,7 +10,7 @@ Links to current subdomains can be found below:
 
 ### [Social Network](https://727.cookiezi.co.uk)
 
-### [GBA Emulator](https://matty.icu)
+### [GBA Emulator](https://gba.cookiezi.co.uk)
 
 ### [osu web](https://osu.cookiezi.co.uk)
 
