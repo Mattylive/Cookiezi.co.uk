@@ -16,4 +16,4 @@ Links to current subdomains can be found below:
 
 ### [Discord Webhook Sender](https://webhook.cookiezi.co.uk)
 
-### [Tetrisa](https://tetris.cookiezi.co.uk)
+### [Tetris](https://tetris.cookiezi.co.uk)
